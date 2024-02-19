@@ -7,5 +7,5 @@
 
 ```javascript
 console.log("Resta:", res);
-´´´
+
 ´´´
